@@ -108,11 +108,15 @@ li a{
 .background-btn{
     margin-top: 25px;
     padding: 10px 16px;
-    border: 4px solid #00246B;
+    border: none;
     border-radius: 2px;
     color: white;
     background-color: #00246B;
     cursor: pointer;
+}
+
+.background-btn:hover{
+    background-color: #5b21b6;
 }
 
 /* contact section */
